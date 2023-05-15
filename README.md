@@ -1,3 +1,3 @@
 # intermediate-pong
 
-intermediate portion of Udemy course
+Intermediate portion of Udemy course
